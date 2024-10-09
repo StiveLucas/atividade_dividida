@@ -1,5 +1,5 @@
 import os
-from models.abstract.Funcionario import Funcionario
+from modelos.abstract.Funcionario import Funcionario
 
 
 
